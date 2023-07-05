@@ -1,0 +1,23 @@
+{
+  "backgroundColor": "#d6d1d0",
+  "CircularProgressIndicator": "#d10404",
+  "logo": "assets/images/hand.jpg",
+  "role_background_img": "assets/images/background.jpg",
+
+  "buttonColor": "#d10404",
+
+  "fb_btn_Color": "#3e68f0",
+  "google_btn_Color": "#fcfcfc",
+  "phone_btn_Color": "#000000",
+  "app_Bar": "#d10404",
+  "app_Bar_text": "#000000",
+
+  "background_splash_screen": "#ffffff",
+  "text_color": "#000000",
+  "error_message_auth":"de2916",
+  "congrats_page_img": "assets/images/check.png",
+  "verification_img": "assets/images/icon.png",
+  "verificationPage_text":"#000000",
+  "resend_verification_txt_btn": "#000000",
+  "congrats_page_txt": "#000000"
+}
